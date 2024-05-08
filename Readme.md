@@ -4,7 +4,7 @@ Registration Form Project | Responsive Web Design | Free Code Camp
 
 **Projeto web Front-end interativo e responsivo.✨**
 
-**Link:** https://github.com/AnaLara714/registration-form
+**Link:** https://analara714.github.io/registration-form/
 
 ## Features
 
